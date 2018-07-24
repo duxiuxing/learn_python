@@ -1,5 +1,5 @@
 # coding=utf-8
-# 习题 2: 注释和井号
+# 习题 2: 注释和#号
 # python只有单行注释，没有多行注释
 
 # A comment, this is so you can read your program later.
